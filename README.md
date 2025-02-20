@@ -11,7 +11,7 @@
 - 🗺️: I'm from Brazil, living in `Mexico City`.
 - :student: I’m currently learning `Cybersecurity` and `AWS`.
 - :nerd_face: Always `learning new things`.
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1eJODAPl-rZsr8w4KHj_NHrUWKAkJ8VHJ/view?usp=sharing.)
+- :thinking: This is [MY RESUME](https://bit.ly/41pogl4)
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
