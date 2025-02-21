@@ -1,22 +1,33 @@
-<h1 align="center">Hi , I'm André Capella <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+# André Capella Macheldey
+## Cybersecurity Professional | Compliance Engineer
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acapella)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andre.capella.itpro@gmail.com)
 
-<br><br>
+### About Me 🔐
+Information Technology Specialist with over 10 years of experience, currently focused on Cybersecurity and Compliance. Specialized in audit management, risk mitigation, and compliance with standards such as PCI-DSS and ISO 27001.
 
-- :bank: I'm `Compliance Engineer` at [CLARA](https://www.clara.com/es-mx/). 
-- :school: Graduated in `Systems Analysis and Development` from `Universidade Nove de Julho` in `Brazil`.
-- 🗺️: I'm from Brazil, living in `Mexico City`.
-- :student: I’m currently learning `Cybersecurity` and `AWS`.
-- :nerd_face: Always `learning new things`.
-- :thinking: This is [MY RESUME](https://bit.ly/41pogl4)
-<br>
+### Technical Expertise 💻
+- **Security Frameworks:** PCI-DSS, ISO 27001
+- **Cloud Security:** AWS
+- **Security Tools:** Nmap, Metasploit, Kali Linux
+- **Programming:** Python, Bash, Powershell, Batch
+- **Vulnerability Analysis & Pentesting**
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:andre.capella.itpro@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/acapella1030"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/acapella"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+### Certifications 🏆
+- Azure Data Fundamentals
+- ACAMS AML Foundation
+- ITIL Foundations v3
+- SAFe4
+- IELTS (B1)
+
+### Current Focus 🎯
+- Managing compliance tools and documentation
+- Conducting vulnerability analysis and pentesting
+- Implementing security frameworks
+- Participating in CTF challenges (Hack in the Box)
+
+### Languages 🌐
+- Portuguese (Native)
+- Spanish (Native)
+- English (B1)
