@@ -1,25 +1,44 @@
 # André Capella Macheldey
 ## Cybersecurity Professional | Compliance Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acapella){:target="_blank" rel="noopener noreferrer"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acapella "Ver mi Linkedin" target="_blank")
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andre.capella.itpro@gmail.com)
 
 ### About Me 🔐
 Information Technology Specialist with over 10 years of experience, currently focused on Cybersecurity and Compliance. Specialized in audit management, risk mitigation, and compliance with standards such as PCI-DSS and ISO 27001.
 
-### Technical Expertise 💻
-- **Security Frameworks:** PCI-DSS, ISO 27001
-- **Cloud Security:** AWS
-- **Security Tools:** Nmap, Metasploit, Kali Linux
-- **Programming:** Python, Bash, Powershell, Batch
-- **Vulnerability Analysis & Pentesting**
+### Technical knowledge and things I have worked with... 💻
+
+- **Operating Systems:**
+  - Linux (Debian :heart)
+  - Windows
+  - Unix
+
+- **Programming & Scripting:**
+  - Python
+  - Bash
+  - Powershell
+  - HTML
+  - CSS
+  - JavaScript
+
+- **Project Management:**
+  - Git
+  - JIRA
+  - Scrum 
+
+- **Databases & Data Management:**
+  - PL/SQL
+
+- **Cloud & Services:**
+  - MS Azure
+  - Amazon AWS
 
 ### Certifications 🏆
-- Azure Data Fundamentals
-- ACAMS AML Foundation
-- ITIL Foundations v3
+- DP-900: Azure Data Fundamentals
+- ACAMS: AML Foundation
+- ITIL: Foundations v3
 - SAFe4
-- IELTS (B1)
 
 ### Current Focus 🎯
 - Managing compliance tools and documentation
@@ -30,4 +49,4 @@ Information Technology Specialist with over 10 years of experience, currently fo
 ### Languages 🌐
 - Portuguese (Native)
 - Spanish (Native)
-- English (B1)
+- English (B1 level :man_student)
