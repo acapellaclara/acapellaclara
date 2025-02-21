@@ -1,7 +1,7 @@
 # André Capella Macheldey
 ## Cybersecurity Professional | Compliance Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acapella)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acapella){:target="_blank" rel="noopener noreferrer"}
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andre.capella.itpro@gmail.com)
 
 ### About Me 🔐
