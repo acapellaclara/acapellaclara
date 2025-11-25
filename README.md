@@ -42,7 +42,7 @@ Information Technology Specialist with over 10 years of experience, currently fo
 - Implementing security frameworks
 - Participating in CTF challenges (Hack in the Box)
 
-### Languages 
+## Languages 
 - Portuguese (Native)
 - Spanish (Native)
 - English (B2)
