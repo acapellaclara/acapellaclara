@@ -8,7 +8,7 @@ Software Engineer with over 12 years of experience, currently focused on Cyberse
 - Managing compliance tools and documentation
 - Conducting vulnerability analysis and pentesting
 - Implementing security frameworks
-- Participating in CTF challenges (Hack in the Box)
+- CTF challenges
 
 ## Languages 
 - Portuguese (Native)
